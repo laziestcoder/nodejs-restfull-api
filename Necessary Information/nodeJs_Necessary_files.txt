@@ -1,0 +1,27 @@
+1.nodeJs and npm
+2.express framework
+3.mongoDb Database
+5.Mongoose ORM
+6.pug template engine
+7.Bower package manager
+8.twitter bootstrap
+9.jQuery and Ajax
+
+
+Downloads
+1.nodejs
+2.atom editor
+3.git-scm
+4.mongodb.com
+5.expressjs.com
+
+
+commands
+1.npm install nodemon
+2.mongod --directoryperdb --dbpath C:\mongodb\data\db
+ --logpath C:\mongodb\log\mongo.log --logappend --rest --install
+3.net stat mongodb
+4.node -v
+5.npm -v
+6.npm install --save express
+7.

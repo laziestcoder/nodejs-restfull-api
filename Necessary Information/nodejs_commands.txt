@@ -1,0 +1,12 @@
+1. Install Nodejs
+2. npm init
+3. npm install --save express
+4. npm server.js or npm start
+5. npm install --save-dev nodemon
+6. add nodemon server.js to package.json in script
+7. npm install --save morgan // login package for Nodejs
+8. npm install --save body-parser
+9. npm install --save mongoose //database
+10. npm install --save multer //for image
+11. npm install --save bcrypt //authentication
+12. 
