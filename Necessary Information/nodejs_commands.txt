@@ -9,4 +9,4 @@
 9. npm install --save mongoose //database
 10. npm install --save multer //for image
 11. npm install --save bcrypt //authentication
-12. 
+12. npm install --save jsonwebtoken 
